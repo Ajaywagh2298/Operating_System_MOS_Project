@@ -1,0 +1,10 @@
+
+
+
+Job Id 	:	202
+OPERATION CODE ERROR
+IC 		:	11
+IR 		:	*D20*D20n
+TTC 		:	11
+LLC 		:	3
+
